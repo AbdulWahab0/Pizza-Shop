@@ -126,10 +126,4 @@ I highly recommend to use [heroku](https://devcenter.heroku.com/articles/nodejs-
     <td align="center"><a href="https://github.com/AbdulWahab0"><br /><sub><b>Abdul Wahab</b></sub></a><br /><a href="https://github.com/AbdulWahab0" title="Code">💻</a> <a href="https://github.com/AbdulWahab0" title="Documentation">📖</a> <a href="https://github.com/AbdulWahab0" title="Design">🎨</a> <a href="https://github.com/AbdulWahab0" title="Maintenance">🚧</a></td>
   </tr>
 </table>
-<p align="center"> 
-  <kbd>
-  	<a href="https://admiring-jennings-4c377a.netlify.app/" target="_blank">
-		<img src=""></img>
-	</a>
-  </kbd>
-</p>
+
