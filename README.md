@@ -37,6 +37,18 @@ Let me know if you have any questions. [Email Abdul Wahab ](mailto:wahab3060h@gm
 ✔️ Show the order summary in checkout.\ 
 ## Technologies used 🛠️
 
+
+## You Will Learn
+
+- HTML5 and CSS3:Grid, Flexbox
+- React: Components, Props, Events, Hooks, Router, Axios
+- Redux: Store, Reducers, Actions
+- Node & Express: Web API, Body Parser, File Upload, JWT
+- MongoDB: Mongoose, Aggregation
+- Development: ESLint, Babel, Git, Github,
+- Deployment: Heroku
+
+
 - [React](https://reactjs.org/)
 - [Redux](https://redux.js.org/) 
 - [Node.js](https://redux.js.org/) 
