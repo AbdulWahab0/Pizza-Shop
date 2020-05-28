@@ -42,6 +42,17 @@ Let me know if you have any questions. [Email Abdul Wahab ](mailto:wahab3060h@gm
 - [Node.js](https://redux.js.org/) 
 - [MongoDB](https://www.mongodb.com/) 
 - [Cloud Mongo](https://www.mongodb.com/cloud) 
+## Sections 
+✔️ Landing Page of Pizza Shop \
+
+<p align="center"> 
+  <kbd>
+  	<a href="#" target="_blank">
+		<img src="slider.png"></img>
+	</a>
+  </kbd>
+</p>
+
 
 ## Deployment 📦 
 Once you have done with your setup. You need to put your website online!
