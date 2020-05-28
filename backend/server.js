@@ -16,6 +16,7 @@ mongoose
     useCreateIndex: true,
   })
   .catch((error) => console.log(error.reason));
+c;
 
 const app = express();
 
