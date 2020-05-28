@@ -52,6 +52,7 @@ Let me know if you have any questions. [Email Abdul Wahab ](mailto:wahab3060h@gm
 	</a>
   </kbd>
 </p>
+
 ✔️ Pizza  
 
 <p align="center"> 
@@ -62,6 +63,45 @@ Let me know if you have any questions. [Email Abdul Wahab ](mailto:wahab3060h@gm
   </kbd>
 </p>
 
+✔️ Deals and Shipping Information. 
+
+<p align="center"> 
+  <kbd>
+  	<a href="#" target="_blank">
+		<img src="Deals.png"></img>
+	</a>
+  </kbd>
+</p>
+
+✔️ Selected Pizza Detail and show realted pizza.
+
+<p align="center"> 
+  <kbd>
+  	<a href="#" target="_blank">
+		<img src="Pizza Details.png"></img>
+	</a>
+  </kbd>
+</p>
+
+✔️ Selected Pizza Cart.
+
+<p align="center"> 
+  <kbd>
+  	<a href="#" target="_blank">
+		<img src="Cart.png"></img>
+	</a>
+  </kbd>
+</p>
+
+✔️ Checkout page and order summary.
+
+<p align="center"> 
+  <kbd>
+  	<a href="#" target="_blank">
+		<img src="checkout.png"></img>
+	</a>
+  </kbd>
+</p>
 
 ## Deployment 📦 
 Once you have done with your setup. You need to put your website online!
