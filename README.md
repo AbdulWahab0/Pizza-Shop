@@ -38,7 +38,7 @@ Let me know if you have any questions. [Email Abdul Wahab ](mailto:wahab3060h@gm
 ## Technologies used 🛠️
 
 
-## You Will Learn
+## Concepts Implemented
 
 - HTML5 and CSS3:Grid, Flexbox
 - React: Components, Props, Events, Hooks, Router, Axios
