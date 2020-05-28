@@ -43,12 +43,21 @@ Let me know if you have any questions. [Email Abdul Wahab ](mailto:wahab3060h@gm
 - [MongoDB](https://www.mongodb.com/) 
 - [Cloud Mongo](https://www.mongodb.com/cloud) 
 ## Sections 
-✔️ Landing Page of Pizza Shop \
+✔️ Landing Page of Pizza Shop
 
 <p align="center"> 
   <kbd>
   	<a href="#" target="_blank">
 		<img src="slider.png"></img>
+	</a>
+  </kbd>
+</p>
+✔️ Pizza  
+
+<p align="center"> 
+  <kbd>
+  	<a href="#" target="_blank">
+		<img src="Pizza Details.png"></img>
 	</a>
   </kbd>
 </p>
