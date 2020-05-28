@@ -1,5 +1,5 @@
 # Pizza-Shop 🍕
-## A clean, beautiful and responsive Online Pizza Order Application !
+## A clean, beautiful and Responsive Online Pizza Order Application !
 
 A simple front-end pizza store built using React,I did this project to get more comfortable with React
 
@@ -91,7 +91,7 @@ Let me know if you have any questions. [Email Abdul Wahab ](mailto:wahab3060h@gm
 <p align="center"> 
   <kbd>
   	<a href="#" target="_blank">
-		<img src="Pizza Details.png"></img>
+		<img src="Details.png"></img>
 	</a>
   </kbd>
 </p>
