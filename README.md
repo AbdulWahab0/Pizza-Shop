@@ -35,11 +35,15 @@ Let me know if you have any questions. [Email Abdul Wahab ](mailto:wahab3060h@gm
 ✔️ Remove the Pizza from Cart\
 ✔️ Show subtoal price of  pizza in Cart\
 ✔️ Show the order summary in checkout.\ 
-## Technologies used 🛠️
 
+## Technologies used 🛠️
+- [React](https://reactjs.org/)
+- [Redux](https://redux.js.org/) 
+- [Node.js](https://redux.js.org/) 
+- [MongoDB](https://www.mongodb.com/) 
+- [Cloud Mongo](https://www.mongodb.com/cloud) 
 
 ## Concepts Implemented
-
 - HTML5 and CSS3:Grid, Flexbox
 - React: Components, Props, Events, Hooks, Router, Axios
 - Redux: Store, Reducers, Actions
@@ -49,11 +53,6 @@ Let me know if you have any questions. [Email Abdul Wahab ](mailto:wahab3060h@gm
 - Deployment: Heroku
 
 
-- [React](https://reactjs.org/)
-- [Redux](https://redux.js.org/) 
-- [Node.js](https://redux.js.org/) 
-- [MongoDB](https://www.mongodb.com/) 
-- [Cloud Mongo](https://www.mongodb.com/cloud) 
 ## Sections 
 ✔️ Landing Page of Pizza Shop
 
