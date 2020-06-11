@@ -7,7 +7,7 @@ A simple front-end pizza store built using React,I did this project to get more 
 
 
 ## Demo Website
-👉 Demo :https://piza-delivery-shop.herokuapp.com/
+👉 Live Demo :https://piza-delivery-shop.herokuapp.com/
 
 ## Run Locally 🚀
 
