@@ -3,7 +3,6 @@
 
 A simple front-end pizza store built using React,I did this project to get more comfortable with React,Node js,MongoDB
 
-[![HitCount](http://hits.dwyl.com/Abdulwahab0/https://githubcom/AbdulWahab0/Pizza-Shopgit.svg)](http://hits.dwyl.com/Abdulwahab0/https://githubcom/AbdulWahab0/Pizza-Shopgit)
 
 
 ## Demo Website
