@@ -10,7 +10,7 @@
     "axios": "^0.19.2",
     "dotenv": "^8.2.0",
     "js-cookie": "^2.2.1",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "mongoose": "^5.9.15",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
